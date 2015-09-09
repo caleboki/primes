@@ -1,1 +1,2 @@
-# primes this program generates a multiplication table of primes on the terminal
+# Pimes 
+This program generates a multiplication table of primes on the terminal
