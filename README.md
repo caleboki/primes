@@ -1,2 +1,2 @@
-# Pimes 
-This program generates a multiplication table of primes on the terminal
+# Prime number generator
+This program generates a multiplication table of prime numbers on the terminal
